@@ -38,6 +38,9 @@ export default function Home() {
           priority
         />
       </div>
+      <div>
+        <h2 > <a href="https://docs.google.com/document/d/13vM8v9RSw-XgYhDCSaNgbVHCSWXX0RhZ6W3NFOfmlpI/edit"><span>Please click here for the answers!</span></a></h2>
+      </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
